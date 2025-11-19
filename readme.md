@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-I'm adding thsi from Develop branch
+I'm adding thsi from Feature branch
